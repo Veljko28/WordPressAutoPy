@@ -21,6 +21,8 @@ driver = webdriver.Chrome(executable_path='C:/Users/Sasha/chromedriver.exe', opt
 # CMD komande za startovanje broweser-a
 # cd C:\Program Files (x86)\Google\Chrome\Application
 # chrome.exe --remote-debugging-port=9000 --user-data-dir=C:\Users\Sasha\Desktop\Artisoft\pyTest\ChromeData
+# cd C:\Users\Sasha\Desktop\Artisoft\pyTest\MoneyMaker
+# py skripta.py
 
 
 # Uzima sve linkove sajtova jedne sekcije
